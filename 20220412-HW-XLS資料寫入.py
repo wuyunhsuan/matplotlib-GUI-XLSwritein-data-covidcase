@@ -11,7 +11,6 @@ plt.rcParams['axes.unicode_minus'] = False                 # 步驟二（解決�
 import xlrd
 import xlwt
 """
-####繼續昨天作業####
 透過讀取 covid19.xls 檔，
 把資料讀取進來，並現在在6個 matplotlib
 """
